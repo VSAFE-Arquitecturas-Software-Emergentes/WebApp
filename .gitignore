@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.env
+.env.*.local
+.local/
+.wrangler/
+test-results/
+playwright-report/
+coverage/
+*.log
+
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*

@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.local/
+.wrangler/
+test-results/
+playwright-report/
+package-lock.json
+*.png
